@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d47cf3d3-b21d-4687-84c3-2d1895aeaa64" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonInnerClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonInnerClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonHungry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonHungry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonEnum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="12" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerAndConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+              <folding>
+                <element signature="e#229#237#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#1296#1297#0" expanded="true" />
+                <element signature="e#1322#1323#0" expanded="true" />
+                <element signature="e#2554#2555#0" expanded="true" />
+                <element signature="e#2587#2588#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerAndConsumerCondition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumerCondition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-714">
+              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#255#263#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#1414#1415#0" expanded="true" />
+                <element signature="e#1448#1449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignalDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/SignalDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#159#168#0" expanded="true" />
+                <element signature="e#1655#1656#0" expanded="true" />
+                <element signature="e#1696#1697#0" expanded="true" />
+                <element signature="e#1698#1699#0" expanded="true" />
+                <element signature="e#1731#1732#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaitAndNotify.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/WaitAndNotify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="39" column="89" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ObserverVo.java" />
+        <option value="$PROJECT_DIR$/src/ObserverVoImpl.java" />
+        <option value="$PROJECT_DIR$/src/Observer.java" />
+        <option value="$PROJECT_DIR$/src/ObserverImp.java" />
+        <option value="$PROJECT_DIR$/src/design/model/ObserverVo.java" />
+        <option value="$PROJECT_DIR$/src/design/model/Main.java" />
+        <option value="$PROJECT_DIR$/src/design/factory/Sender.java" />
+        <option value="$PROJECT_DIR$/src/design/factory/SenderImpl.java" />
+        <option value="$PROJECT_DIR$/src/design/factory/SMSSender.java" />
+        <option value="$PROJECT_DIR$/src/design/factory/MailSender.java" />
+        <option value="$PROJECT_DIR$/src/design/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/src/design/factory/Main.java" />
+        <option value="$PROJECT_DIR$/src/design/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/design/singleton/SingletonInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/design/singleton/SingletonHungry.java" />
+        <option value="$PROJECT_DIR$/src/design/singleton/SingletonEnum.java" />
+        <option value="$PROJECT_DIR$/src/design/singleton/SingletonLock.java" />
+        <option value="$PROJECT_DIR$/src/design/ProducerAndConsumer/Producer.java" />
+        <option value="$PROJECT_DIR$/src/design/ProducerAndConsumer/WaitAndNotify.java" />
+        <option value="$PROJECT_DIR$/src/design/ProducerAndConsumer/SignalDemo.java" />
+        <option value="$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumerCondition.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProducerAndConsumerCondition">
+    <configuration name="ProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.ProducerAndConsumer" />
+      <module name="basic-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.ProducerAndConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ProducerAndConsumerCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.ProducerAndConsumerCondition" />
+      <module name="basic-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.ProducerAndConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SignalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.SignalDemo" />
+      <module name="basic-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.ProducerAndConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SingletonEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.singleton.SingletonEnum" />
+      <module name="basic-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.WaitAndNotify" />
+      <module name="basic-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.ProducerAndConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SingletonEnum" />
+      <item itemvalue="Application.WaitAndNotify" />
+      <item itemvalue="Application.ProducerAndConsumer" />
+      <item itemvalue="Application.ProducerAndConsumerCondition" />
+      <item itemvalue="Application.SignalDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProducerAndConsumerCondition" />
+        <item itemvalue="Application.SignalDemo" />
+        <item itemvalue="Application.ProducerAndConsumer" />
+        <item itemvalue="Application.WaitAndNotify" />
+        <item itemvalue="Application.SingletonEnum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d47cf3d3-b21d-4687-84c3-2d1895aeaa64" name="Default" comment="" />
+      <created>1539135620719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539135620719</updated>
+      <workItem from="1539135622544" duration="15785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15785000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7238562" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32843137" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7107843" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/design/model/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/model/ObserverImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="5" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#156#168#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/model/ObserverVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/model/ObserverVoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/model/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/factory/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="8" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/factory/SMSSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/factory/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/factory/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonHungry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="12" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/software/jdk1.8.0_101/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/software/jdk1.8.0_101/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="585" column="13" selection-start-line="585" selection-start-column="13" selection-end-line="585" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/software/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="167" column="38" selection-start-line="167" selection-start-column="23" selection-end-line="167" selection-end-column="38" />
+          <folding>
+            <element signature="e#5562#5563#0" expanded="true" />
+            <element signature="e#5614#5615#0" expanded="true" />
+            <element signature="e#17535#17536#0" expanded="true" />
+            <element signature="e#17577#17578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/software/jdk1.8.0_101/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="355" column="26" selection-start-line="355" selection-start-column="14" selection-end-line="355" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/WaitAndNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="39" column="89" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/SignalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#159#168#0" expanded="true" />
+            <element signature="e#1655#1656#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="e#229#237#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#2554#2555#0" expanded="true" />
+            <element signature="e#2587#2588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumerCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#263#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
