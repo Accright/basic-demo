@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class Sort {
 
+    //这个是用来记录堆排序的一个数据 从而用来调整排序后未排序的新的堆
+    static int len;
+
     public static void main(String[] args){
         int[] l = {1,32,43,12,312,3,3,54,32,322,31,65,87,435,123,8,76,76567,5};
         //new Sort().bubbleSort(l);
@@ -12,7 +15,9 @@ public class Sort {
         //new Sort().insertSort(l);
         //new Sort().binaryInsertSort(l);
         //new Sort().chooseSort(l);
-        new Sort().shellSort(l);
+        //new Sort().shellSort(l);
+        //new Sort().heapSort(l);
+        new Sort().mergeSort(l);
 
         System.out.println("排序之后的结果是"+Arrays.toString(l));
     }
@@ -87,7 +92,7 @@ public class Sort {
         }
     }
 
-    //折半插入排序 适合于对于排好序的 插入一个为排序的数
+    //折半插入排序 适合于对于排好序的 插入一个未排序的数
     public void binaryInsertSort(int[] x){
         for (int i = 0;i < x.length;i++){
             int temp = x[i];
@@ -148,13 +153,72 @@ public class Sort {
     }
 
     //归并排序
-    public void mergeSort(int[] x){
+    //主要采取了分开排序法 使每一个排序段都有序 然后使各个排序段归并为一个排序段 相对于快排更稳定 但需要更多的内存空间
+    public int[] mergeSort(int[] x){
+        if (x.length < 2) return x;
+        int mid = x.length/2;
+        int[] x1 = Arrays.copyOfRange(x,0,mid);
+        int[] x2 = Arrays.copyOfRange(x,mid,x.length);
+        //开始归并操作
+        merge(mergeSort(x1),mergeSort(x2),x);
+        return x;
+    }
 
+    //归并排序操作
+    public void merge(int[] x1,int[] x2,int[] x){
+        for (int index=0,i=0,j = 0;index < x.length;index++){
+            if (i >= x1.length){
+                x[index] = x2[j++];
+            }else if (j >= x2.length){
+                x[index] = x1[i++];
+            }else if (x1[i] > x2[j]){
+                x[index] = x2[j++];
+            }else {
+                x[index] = x1[i++];
+            }
+        }
     }
 
     //堆排序
+    //利用二叉树（或者说堆的性质）通过交换堆的第一个元素（最大或最小元素）与最后一个元素 不断调整R[1..N]为新的堆 总而堆最后的值为有序的
     public void heapSort(int[] x){
+        len = x.length;
+        if (len < 1){
+            return;
+        }
+        //构造堆
+        buildHeap(x);
+        //循环与末位交换 保证末位的是有序的
+        while (len > 0){
+            swap(0,len - 1,x);
+            len--;
+            adjustHeap(x,0);
+        }
+    }
 
+    //构建堆的方法
+    public void buildHeap(int[] x){
+        //从最后一个叶子节点向上构造最大堆
+        for (int i = (len/2-1);i >= 0;i--){
+            adjustHeap(x,i);
+        }
+    }
+
+    //调整堆的方法
+    public void adjustHeap(int[] x,int i){
+        int maxIndex = i;
+        //根据左右子节点 如果子节点有更大的值 指向子节点
+        if (i*2<len && x[i*2] > x[maxIndex]){
+            maxIndex = i*2;
+        }
+        if (i*2+1<len && x[i*2+1] > x[maxIndex]){
+            maxIndex = i*2+1;
+        }
+        //交换节点值之后并继续递归调整
+        if (maxIndex != i){
+            swap(maxIndex,i,x);
+            adjustHeap(x,maxIndex);
+        }
     }
 
     //交换
