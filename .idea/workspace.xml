@@ -2,49 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47cf3d3-b21d-4687-84c3-2d1895aeaa64" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/datastructure/AppStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question/QStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/basic-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question/QRPN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumer$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumer$Consumer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumer$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumerCondition$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumerCondition$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/ProducerAndConsumerCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/SignalDemo$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/SignalDemo$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/SignalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/WaitAndNotify$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/WaitAndNotify$Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/WaitAndNotify$Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/ProducerAndConsumer/WaitAndNotify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/factory/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/factory/MailSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/factory/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/factory/SMSSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/factory/Sender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/model/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/model/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/model/ObserverImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/model/ObserverVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/model/ObserverVoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/singleton/SingletonEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/singleton/SingletonHungry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/singleton/SingletonInnerClass$SingletonHodler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/singleton/SingletonInnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-demo/design/singleton/SingletonLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arithmetic/DFSLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arithmetic/BFSLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arithmetic/DFSNumSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arithmetic/DFSNumSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,45 +18,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonInnerClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding>
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonHungry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="12" />
-              <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonLock.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,19 +31,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumer.java">
+        <entry file="file://$PROJECT_DIR$/src/question/QStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumerCondition.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/question/QRPN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="720">
+              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,19 +52,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/MyCircularQueueNum.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-              <folding>
-                <element signature="e#1628#1629#0" expanded="true" />
-                <element signature="e#1770#1771#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -146,9 +71,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-demo.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arithmetic/BFSLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/SignalDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="300">
               <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -208,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/datastructure/Queue.java" />
         <option value="$PROJECT_DIR$/src/datastructure/MyCircularQueue.java" />
         <option value="$PROJECT_DIR$/src/datastructure/MyCircularQueueNum.java" />
+        <option value="$PROJECT_DIR$/src/question/QRPN.java" />
       </list>
     </option>
   </component>
@@ -227,15 +167,77 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="question" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550313318160" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550322418155" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -250,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProducerAndConsumerCondition">
+  <component name="RunManager" selected="Application.QRPN">
     <configuration name="ProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.ProducerAndConsumer" />
       <module name="basic-demo" />
@@ -277,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.SignalDemo" />
+    <configuration name="QRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question.QRPN" />
       <module name="basic-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.ProducerAndConsumer.*" />
+          <option name="PATTERN" value="question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.singleton.SingletonEnum" />
+    <configuration name="SignalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.ProducerAndConsumer.SignalDemo" />
       <module name="basic-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.singleton.*" />
+          <option name="PATTERN" value="design.ProducerAndConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingletonEnum" />
       <item itemvalue="Application.WaitAndNotify" />
       <item itemvalue="Application.ProducerAndConsumer" />
       <item itemvalue="Application.ProducerAndConsumerCondition" />
       <item itemvalue="Application.SignalDemo" />
+      <item itemvalue="Application.QRPN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QRPN" />
         <item itemvalue="Application.ProducerAndConsumerCondition" />
         <item itemvalue="Application.SignalDemo" />
         <item itemvalue="Application.ProducerAndConsumer" />
         <item itemvalue="Application.WaitAndNotify" />
-        <item itemvalue="Application.SingletonEnum" />
       </list>
     </recent_temporary>
   </component>
@@ -344,38 +346,38 @@
       <option name="presentableId" value="Default" />
       <updated>1539135620719</updated>
       <workItem from="1539135622544" duration="15785000" />
-      <workItem from="1550060339904" duration="1509000" />
+      <workItem from="1550060339904" duration="1630000" />
+      <workItem from="1550319399100" duration="2820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17294000" />
+    <option name="totallyTimeSpent" value="20235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7238562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.7107843" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7234694" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4877551" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4993895" weight="0.32959184" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -385,6 +387,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,13 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -545,9 +541,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumerCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/MyCircularQueueNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          <folding>
+            <element signature="e#1595#1596#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/SignalDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="300">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -562,34 +589,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/design/ProducerAndConsumer/ProducerAndConsumerCondition.java">
+    <entry file="file://$PROJECT_DIR$/src/arithmetic/BFSLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-demo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/singleton/SingletonLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question/QStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question/QRPN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/MyCircularQueueNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="e#1628#1629#0" expanded="true" />
-            <element signature="e#1770#1771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>basic-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
