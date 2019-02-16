@@ -8,7 +8,7 @@ import java.util.*;
  * 可以得到如下8个状态："0001"、"0009"、"0010"、"0090"、"0100"、"0900"、"1000"和"9000"。
  * 那么图中顶点"0000"就有8条边分别和这8个状态对应的顶点相连。
  */
-public class DFSLock {
+public class BFSLock {
     public int openLock(String[] ends,String target){
         int steps = 0;
         //转换为end状态集
@@ -74,7 +74,7 @@ public class DFSLock {
 
     public static void main(String args[]){
         long cur = new Date().getTime();
-        int step = new DFSLock().openLock(new String[]{"0201","0101","0102","1212","2002"},"0202");
+        int step = new BFSLock().openLock(new String[]{"0201","0101","0102","1212","2002"},"0202");
         long now = new Date().getTime();
         System.out.println("step is"+step+",用时为"+(now-cur)+"毫秒");
     }
