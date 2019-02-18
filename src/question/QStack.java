@@ -19,6 +19,7 @@ public class QStack {
                 }else {
                     days[i] = 0;
                 }
+
             }
         }
         return days;
